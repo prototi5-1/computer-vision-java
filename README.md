@@ -23,16 +23,16 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/prototi5-1/computer-vision-java.git
+git clone https://github.com/prototi5-1/computer-vision-java.git```
 
 2. Перейдите в директорию:
 
 ```bash
-cd computer-vision-java
+cd computer-vision-java```
 
 3. Соберите проект:
 
 ```bash
 mvn clean install
 # или
-gradle build
+gradle build```
