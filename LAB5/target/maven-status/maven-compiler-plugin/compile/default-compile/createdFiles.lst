@@ -1,0 +1,6 @@
+org/mycompany/lab5/PyramidProcessor.class
+org/mycompany/lab5/ImageProcessor.class
+org/mycompany/lab5/utils/ImageUtils.class
+org/mycompany/lab5/RectangleDetector.class
+org/mycompany/lab5/Main.class
+org/mycompany/lab5/ColorRange.class

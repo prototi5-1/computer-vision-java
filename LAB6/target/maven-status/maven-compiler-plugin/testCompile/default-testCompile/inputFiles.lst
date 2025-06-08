@@ -1,0 +1,6 @@
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/config/OpenCVLoaderTest.java
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/util/ImageIOUtilTest.java
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/service/ImagePyramidServiceTest.java
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/service/RectangleDetectorTest.java
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/model/RectangleDetectionResultTest.java
+/home/osboxes/NetBeansProjects/LAB6/src/test/java/org/mycompany/lab6/service/CannyEdgeDetectorTest.java

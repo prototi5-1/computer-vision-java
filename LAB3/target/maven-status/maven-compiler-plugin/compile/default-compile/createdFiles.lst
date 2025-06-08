@@ -1,0 +1,5 @@
+org/mycompany/lab3/utils/ImageUtils.class
+org/mycompany/lab3/transformations/Transformations.class
+org/mycompany/lab3/config/OpenCVLoader.class
+org/mycompany/lab3/App.class
+org/mycompany/lab3/core/ImageProcessor.class

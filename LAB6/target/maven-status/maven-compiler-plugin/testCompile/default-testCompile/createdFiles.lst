@@ -1,0 +1,6 @@
+org/mycompany/lab6/model/RectangleDetectionResultTest.class
+org/mycompany/lab6/util/ImageIOUtilTest.class
+org/mycompany/lab6/config/OpenCVLoaderTest.class
+org/mycompany/lab6/service/RectangleDetectorTest.class
+org/mycompany/lab6/service/ImagePyramidServiceTest.class
+org/mycompany/lab6/service/CannyEdgeDetectorTest.class

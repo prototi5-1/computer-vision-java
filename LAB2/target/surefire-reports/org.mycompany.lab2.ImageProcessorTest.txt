@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.mycompany.lab2.ImageProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.335 s -- in org.mycompany.lab2.ImageProcessorTest

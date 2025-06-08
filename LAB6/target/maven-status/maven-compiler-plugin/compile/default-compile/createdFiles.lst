@@ -1,0 +1,7 @@
+org/mycompany/lab6/service/ImagePyramidService.class
+org/mycompany/lab6/util/ImageIOUtil.class
+org/mycompany/lab6/service/CannyEdgeDetector.class
+org/mycompany/lab6/model/RectangleDetectionResult.class
+org/mycompany/lab6/config/OpenCVLoader.class
+org/mycompany/lab6/App.class
+org/mycompany/lab6/service/RectangleDetector.class
